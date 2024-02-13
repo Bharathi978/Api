@@ -1,0 +1,30 @@
+{
+   "employees":[
+      {
+         "firstname":"bob",
+         "lastname":"Doe"
+      },
+      {
+         "firstname":"Muller",
+         "lastname":"Joe"
+      },
+      {
+         "firstname":"peter",
+         "lastname":"Jones"
+      }
+   ],
+   "Manager":[
+      {
+         "firstname":"bop",
+         "lastname":"Doe"
+      },
+      {
+         "firstname":"Muller",
+         "lastname":"Joe"
+      },
+      {
+         "firstname":"peter",
+         "lastname":"Jones"
+      }
+   ]
+}

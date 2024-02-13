@@ -1,0 +1,26 @@
+{
+
+"Name":"Bharathi",
+"age": 30,
+"Staus": true,
+
+"address":{
+            "city": "chennai",
+            "State":"Tamilnadu",
+            "country":"India"
+},
+
+"courses":[
+
+       "java",
+       "python",
+      "Selenium"
+
+
+]
+
+
+
+
+
+}
